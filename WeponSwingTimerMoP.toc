@@ -1,0 +1,8 @@
+## Interface: 50400
+## Title: WeponSwingTimer MoP
+## Notes: Weapon Swing Timer for Warrior (MoP 5.4.x)
+## Author: Bogarne
+## Version: 0.9
+## SavedVariables: WST_DB
+
+WeponSwingTimerMoP.lua
